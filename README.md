@@ -8,8 +8,8 @@ Gardr plugin to collapse sections (typically banners, but can be used for anythi
 
 ## Use
 Add these to your hostBundle.js file:
-    var collapse = require('gardr-plugin-host-collapse');
-    gardrHost.plugin(collapse);
+	var collapse = require('gardr-plugin-host-collapse');
+	gardrHost.plugin(collapse);
    	
 The plugin will be called for each item after render, and will set display: none on any that are less than the minimum number of pixels.
 
