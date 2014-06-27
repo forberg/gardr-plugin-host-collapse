@@ -1,6 +1,6 @@
 {
   "name": "gardr-plugin-host-collapse",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tiny plugin that collapses sections with height or width less than 10px. Original usecase: Remove banner positions without content.",
   "main": "index.js",
   "scripts": {
