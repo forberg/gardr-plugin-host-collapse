@@ -4,7 +4,7 @@
   "description": "Tiny plugin that collapses sections with height or width less than 10px. Original usecase: Remove banner positions without content.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/.bin/mocha"
   },
   "keywords": [
     "gardr",
